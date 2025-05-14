@@ -1,0 +1,2 @@
+# MyFirstRepository
+обучение и текст
